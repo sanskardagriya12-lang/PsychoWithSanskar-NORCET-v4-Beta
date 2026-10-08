@@ -1,0 +1,9 @@
+{
+  "name": "PsychoWithSanskar NORCET v4",
+  "short_name": "NORCET v4",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07101e",
+  "theme_color": "#07101e",
+  "description": "PsychoWithSanskar NORCET preparation platform with Firebase account sync and global leaderboard."
+}
