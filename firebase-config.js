@@ -1,7 +1,6 @@
-// PsychoWithSanskar NORCET v4 Firebase configuration
-// These values are from the Firebase Web App registered for this project.
-window.PS_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyByM7vUjKVn8WQSy52-vja99aJiAf1ogQ",
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyByM7vUjKVn8nWQSy52-vja99aJiAf1ogQ",
   authDomain: "psychowithsanskar-norcet.firebaseapp.com",
   projectId: "psychowithsanskar-norcet",
   storageBucket: "psychowithsanskar-norcet.firebasestorage.app",
